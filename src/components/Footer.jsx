@@ -38,15 +38,16 @@ Secure marketplace for college students to buy, sell, and exchange items within 
 <ul className="space-y-2">
 <li className="flex items-center space-x-2 text-gray-400">
 <Mail className="w-4 h-4" />
-<span className="text-sm">support@campusexchange.edu</span>
+<span className="text-sm">campusexchangess@gmail.com</span>
 </li>
 <li className="flex items-center space-x-2 text-gray-400">
 <Phone className="w-4 h-4" />
-<span className="text-sm">+91 1234567890</span>
+<div className="text-sm">+91 6363686899/</div>
+<div className="text-sm">+91 9620317887/</div>
 </li>
 <li className="flex items-center space-x-2 text-gray-400">
 <MapPin className="w-4 h-4" />
-<span className="text-sm">College Campus, City</span>
+<span className="text-sm">AMC College, Bengalore</span>
 </li>
 </ul>
 <div className="flex space-x-4 mt-4">
